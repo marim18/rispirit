@@ -1,0 +1,147 @@
+{
+    "Map_Layout_Intro" :
+  {
+    "Exit_1" :
+    {
+      "Name" : "Map_Layout_Floor_1",
+      "X" : 220,
+      "Y" : 1813
+    },
+    "Exit_2" : {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    },
+    "Exit_3" : {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    },
+    "Exit_4" : {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    }
+  },
+  "Map_Layout_Floor_1" :
+  {
+    "Exit_1" :
+    {
+      "Name" : "Map_Layout_Floor_2",
+      "X" : 2922,
+      "Y" : 1425
+    },
+    "Exit_2" : {
+      "Name" : "Map_Layout_Intro",
+      "X" : 1992,
+      "Y" : 1324
+    },
+    "Exit_3" : {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    },
+    "Exit_4" : {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    }
+  },
+  "Map_Layout_Floor_2" :
+  {
+    "Exit_1" :
+    {
+      "Name" : "Map_Layout_Floor_3",
+      "X" : 320,
+      "Y" : 1813
+    },
+    "Exit_2" : {
+      "Name" : "Map_Layout_Floor_1",
+      "X" : 2922,
+      "Y" : 1425
+    },
+    "Exit_3" : {
+      "Name" : "Map_Layout_Floor_Secret",
+      "X" : 250,
+      "Y" : 450
+    },
+    "Exit_4" : {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    }
+  },
+  "Map_Layout_Floor_3" :
+  {
+    "Exit_1" :
+    {
+      "Name" : "Map_Layout_Floor_Boss",
+      "X" : 1220,
+      "Y" : 1667
+    },
+    "Exit_2" : {
+      "Name" : "Map_Layout_Floor_2",
+      "X" : 265,
+      "Y" : 1813
+    },
+    "Exit_3" : {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    },
+    "Exit_4" : {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    }
+  },
+  "Map_Layout_Floor_Secret" :
+  {
+    "Exit_1" :
+    {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    },
+    "Exit_2" : {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    },
+    "Exit_3" : {
+      "Name" : "Map_Layout_Floor_2",
+      "X" : 3050,
+      "Y" : 123
+    },
+    "Exit_4" : {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    }
+  },
+  "Map_Layout_Floor_Boss" :
+  {
+    "Exit_1" :
+    {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    },
+    "Exit_2" : {
+      "Name" : "Map_Layout_Floor_3",
+      "X" : 2922,
+      "Y" : 1425
+    },
+    "Exit_3" : {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    },
+    "Exit_4" : {
+      "Name" : "",
+      "X" : -1,
+      "Y" : -1
+    }
+  }
+}
+

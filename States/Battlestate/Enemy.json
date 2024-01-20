@@ -1,0 +1,443 @@
+{
+  "Ally": {
+    "0":{
+      "Sprite": "Pictures/CharCreate/hairchoices.png",
+      "SpritePos": 0,
+
+      "level": 1,
+
+      "currentExp": 0,
+      "ExpNextLvL": 100,
+      "Name": "",
+
+      "HP": 100,
+      "MP": 100,
+      "Attack": 15,
+      "Defence": 10,
+      "MagicAttack": 5,
+      "MagicDefence": 10,
+      "Accuracy": 10,
+      "Evade": 10,
+      "Enmity": 10,
+
+      "Class": "Fighter"
+    },
+    "1":{
+      "Sprite": "Pictures/NPC/Characters.png",
+      "SpritePos": 0,
+
+      "level": 1,
+
+      "currentExp": 0,
+      "ExpNextLvL": 100,
+      "Name": "Red",
+
+      "HP": 100,
+      "MP": 100,
+      "Attack": 10,
+      "Defence": 15,
+      "MagicAttack": 0,
+      "MagicDefence": 15,
+      "Accuracy": 10,
+      "Evade": 10,
+      "Enmity": 10,
+
+      "Class": "Tank"
+    },
+    "2":{
+      "Sprite": "Pictures/NPC/Characters.png",
+      "SpritePos": 2,
+
+      "level": 1,
+
+      "currentExp": 0,
+      "ExpNextLvL": 100,
+      "Name": "Green",
+
+      "HP": 100,
+      "MP": 100,
+      "Attack": 5,
+      "Defence": 10,
+      "MagicAttack": 20,
+      "MagicDefence": 10,
+      "Accuracy": 10,
+      "Evade": 10,
+      "Enmity": 10,
+
+      "Class": "Mage"
+    },
+    "3":{
+      "Sprite": "Pictures/NPC/Characters.png",
+      "SpritePos": 1,
+
+      "level": 1,
+
+      "currentExp": 0,
+      "ExpNextLvL": 10,
+      "Name": "Blue",
+
+      "HP": 100,
+      "MP": 100,
+      "Attack": 10,
+      "Defence": 2,
+      "MagicAttack": 10,
+      "MagicDefence": 5,
+      "Accuracy": 5,
+      "Evade": 10,
+      "Enmity": 10,
+
+      "Class": "Healer"
+    }
+  },
+
+
+
+  "Map_Layout_Intro" :
+  {
+    "boss0":{
+      "Sprite": "Pictures/Enemy/Enemy.png",
+      "SpritePos": 0,
+
+      "level": 1,
+
+      "currentExp": 0,
+      "ExpNextLvL": 25,
+      "Name": "Girl",
+
+      "HP": 100,
+      "MP": 100,
+      "Attack": 10,
+      "Defence": 10,
+      "MagicAttack": 0,
+      "MagicDefence": 10,
+      "Accuracy": 10,
+      "Evade": 10,
+      "Enmity": 10,
+      "Class": "None"
+    }
+  },
+
+
+
+  "Map_Layout_Floor_1":
+{
+    "enemy0":{
+      "Sprite": "Pictures/Enemy/Enemy.png",
+      "SpritePos": 0,
+
+      "level": 1,
+
+      "currentExp": 0,
+      "ExpNextLvL": 10,
+      "Name": "Mean Rebecca",
+
+      "HP": 100,
+      "MP": 100,
+      "Attack": 10,
+      "Defence": 10,
+      "MagicAttack": 0,
+      "MagicDefence": 10,
+      "Accuracy": 10,
+      "Evade": 10,
+      "Enmity": 10,
+      "Class": "None"
+  },
+    "enemy1":{
+      "Sprite": "Pictures/Enemy/Enemy.png",
+      "SpritePos": 1,
+
+      "level": 1,
+
+      "currentExp": 0,
+      "ExpNextLvL": 10,
+      "Name": "Mean Kim",
+
+      "HP": 100,
+      "MP": 100,
+      "Attack": 10,
+      "Defence": 10,
+      "MagicAttack": 0,
+      "MagicDefence": 10,
+      "Accuracy": 10,
+      "Evade": 10,
+      "Enmity": 10,
+      "Class": "None"
+    },
+    "enemy2":{
+      "Sprite": "Pictures/Enemy/Enemy.png",
+      "SpritePos": 2,
+
+      "level": 1,
+
+      "currentExp": 0,
+      "ExpNextLvL": 10,
+      "Name": "Mean Helen",
+
+      "HP": 100,
+      "MP": 100,
+      "Attack": 10,
+      "Defence": 10,
+      "MagicAttack": 0,
+      "MagicDefence": 10,
+      "Accuracy": 10,
+      "Evade": 10,
+      "Enmity": 10,
+      "Class": "None"
+    },
+    "enemy3":{
+      "Sprite": "Pictures/Enemy/Enemy.png",
+      "SpritePos": 3,
+
+      "level": 1,
+
+      "currentExp": 0,
+      "ExpNextLvL": 10,
+      "Name": "Mean Jessy",
+
+      "HP": 100,
+      "MP": 100,
+      "Attack": 10,
+      "Defence": 10,
+      "MagicAttack": 0,
+      "MagicDefence": 10,
+      "Accuracy": 10,
+      "Evade": 10,
+      "Enmity": 10,
+      "Class": "None"
+    }
+  },
+
+
+
+  "Map_Layout_Floor_2":
+  {
+    "enemy0":{
+      "Sprite": "Pictures/Enemy/enemyys2.png",
+      "SpritePos": 0,
+
+      "level": 3.5,
+
+      "currentExp": 0,
+      "ExpNextLvL": 25,
+      "Name": "Rob1",
+
+      "HP": 150,
+      "MP": 150,
+      "Attack": 15,
+      "Defence": 15,
+      "MagicAttack": 0,
+      "MagicDefence": 15,
+      "Accuracy": 15,
+      "Evade": 15,
+      "Enmity": 15,
+      "Class": "None"
+    },
+    "enemy1":{
+      "Sprite": "Pictures/Enemy/enemyys2.png",
+      "SpritePos": 1,
+
+      "level": 3.5,
+
+      "currentExp": 0,
+      "ExpNextLvL": 25,
+      "Name": "Rob2",
+
+      "HP": 150,
+      "MP": 150,
+      "Attack": 15,
+      "Defence": 15,
+      "MagicAttack": 0,
+      "MagicDefence": 15,
+      "Accuracy": 15,
+      "Evade": 15,
+      "Enmity": 15,
+      "Class": "None"
+    },
+    "enemy2":{
+      "Sprite": "Pictures/Enemy/enemyys2.png",
+      "SpritePos": 2,
+
+      "level": 3.5,
+
+      "currentExp": 0,
+      "ExpNextLvL": 25,
+      "Name": "Rob3",
+
+      "HP": 150,
+      "MP": 150,
+      "Attack": 15,
+      "Defence": 15,
+      "MagicAttack": 0,
+      "MagicDefence": 15,
+      "Accuracy": 15,
+      "Evade": 15,
+      "Enmity": 15,
+      "Class": "None"
+    },
+    "enemy3":{
+      "Sprite": "Pictures/Enemy/enemyys2.png",
+      "SpritePos": 3,
+
+      "level": 3.5,
+
+      "currentExp": 0,
+      "ExpNextLvL": 25,
+      "Name": "Rob4",
+
+      "HP": 150,
+      "MP": 150,
+      "Attack": 15,
+      "Defence": 15,
+      "MagicAttack": 0,
+      "MagicDefence": 15,
+      "Accuracy": 15,
+      "Evade": 15,
+      "Enmity": 15,
+      "Class": "None"
+    }
+  },
+
+
+
+  "Map_Layout_Floor_3":
+  {
+    "enemy0":{
+      "Sprite": "Pictures/Enemy/enemyys3.png",
+      "SpritePos": 0,
+
+      "level": 5,
+
+      "currentExp": 0,
+      "ExpNextLvL": 40,
+      "Name": "Tob1",
+
+      "HP": 200,
+      "MP": 200,
+      "Attack": 20,
+      "Defence": 20,
+      "MagicAttack": 0,
+      "MagicDefence": 20,
+      "Accuracy": 20,
+      "Evade": 20,
+      "Enmity": 20,
+      "Class": "None"
+    },
+    "enemy1":{
+      "Sprite": "Pictures/Enemy/enemyys3.png",
+      "SpritePos": 1,
+
+      "level": 5,
+
+      "currentExp": 0,
+      "ExpNextLvL": 40,
+      "Name": "Tob2",
+
+      "HP": 200,
+      "MP": 200,
+      "Attack": 20,
+      "Defence": 20,
+      "MagicAttack": 0,
+      "MagicDefence": 20,
+      "Accuracy": 20,
+      "Evade": 20,
+      "Enmity": 20,
+      "Class": "None"
+    },
+    "enemy2":{
+      "Sprite": "Pictures/Enemy/enemyys3.png",
+      "SpritePos": 2,
+
+      "level": 5,
+
+      "currentExp": 0,
+      "ExpNextLvL": 40,
+      "Name": "Tob3",
+
+      "HP": 200,
+      "MP": 200,
+      "Attack": 20,
+      "Defence": 20,
+      "MagicAttack": 0,
+      "MagicDefence": 20,
+      "Accuracy": 20,
+      "Evade": 20,
+      "Enmity": 20,
+      "Class": "None"
+    },
+    "enemy3":{
+      "Sprite": "Pictures/Enemy/enemyys3.png",
+      "SpritePos": 3,
+
+      "level": 5,
+
+      "currentExp": 0,
+      "ExpNextLvL": 40,
+      "Name": "Tob4",
+
+      "HP": 200,
+      "MP": 200,
+      "Attack": 20,
+      "Defence": 20,
+      "MagicAttack": 0,
+      "MagicDefence": 20,
+      "Accuracy": 20,
+      "Evade": 20,
+      "Enmity": 20,
+      "Class": "None"
+    }
+  },
+
+
+
+  "Map_Layout_Floor_Boss":
+  {
+    "boss0":{
+      "Sprite": "Pictures/NPC/Charlist1.png",
+      "SpritePos": 4,
+
+      "level": 10,
+
+      "currentExp": 0,
+      "ExpNextLvL": 200,
+      "Name": "Chris Yuba",
+
+      "HP": 500,
+      "MP": 500,
+      "Attack": 35,
+      "Defence": 25,
+      "MagicAttack": 0,
+      "MagicDefence": 25,
+      "Accuracy": 25,
+      "Evade": 25,
+      "Enmity": 25,
+      "Class": "None"
+    }
+  },
+
+
+
+  "Map_Layout_Floor_Secret":
+  {
+    "boss0":{
+      "Sprite": "Pictures/NPC/Characters.png",
+      "SpritePos": 3,
+
+      "level": 1,
+
+      "currentExp": 0,
+      "ExpNextLvL": 150,
+      "Name": "Secret Boss",
+
+      "HP": 300,
+      "MP": 300,
+      "Attack": 40,
+      "Defence": 15,
+      "MagicAttack": 0,
+      "MagicDefence": 10,
+      "Accuracy": 10,
+      "Evade": 10,
+      "Enmity": 10,
+      "Class": "None"
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "Donald Motherfuckin Duck" :
+  {
+    "Box1" : "Making textboxes is a \n real pain",
+    "Box2" : "I really, abosultely \nhate it",
+    "Box3" : "Also, micky is a bitch",
+    "Box4" : "EXIT"
+  },
+  "Red" :
+  {
+    "Box1" : "Hi, I am Red \nand I am part of the \nLazyBunch club with you. \n'Press 'Space' to advance \nthe conversation'",
+    "Box2" : "You can use WASD or \nthe arrow keys \nto move around on the \nschool ground.",
+    "Box3" : "Try and walk up ahead \nand meet up with Blue",
+    "Box4" : "EXIT"
+  },
+  "Green" :
+  {
+    "Box1" : "Hi, I am Green \nand I'll help you guys out.",
+    "Box2" : "I will teach you how to \nfight people.",
+    "Box3" : "Once you are in combat \nyou will see your allies \nto the left, and your \nenemies to the right.",
+    "Box4" : "The Purple highlighter \nshows which characters \nturn it is, and the \nCyan highlighter shows \nwho you have \ntargeted.",
+    "Box5" : "You can watch your \nallies and enemies Health \nand Mana in the \nbottom right corner.",
+    "Box6" : "Every character has a \nbasic attack, \nwhich uses no \nmana.",
+    "Box7" : "Each character has \ndifferent special attacks, \nwhich uses mana.",
+    "Box8" : "These special attacks \nhave different effects, \nall from doing damage, \nincreasing ones stats, \nto healing your team.",
+    "Box9" : "You also have access \nto your backpack in battle, \nwhich has some potions \nthat you can use to heal \nyourself.",
+    "Box10" : "These potions replenish \nevery battle.",
+    "Box11" : "Now that I have \ntaught you the basics.",
+    "Box12" : "Try and battle against \nthat girl over there, \nand try for yourself.",
+    "Box13" : "EXIT"
+  },
+  "Blue" :
+  {
+    "Box1" : "Hi, I am Blue \nand I am also part of the \nLazyBunch club with \nyou guys.",
+    "Box2" : "As of today the principle \ndeclared the 34th \nclub purge to have begun.",
+    "Box3" : "We have to stay strong \nand fight the other \nclubs to keep our spot.",
+    "Box4" : "On the next floor rules \nthe IT club with \nChris Ybua as their \nleader.",
+    "Box5" : "The wood tiled floor \nindicates where you can \nfight each other.",
+    "Box6" : "Go on up ahead \nand train against his \nclub members.",
+    "Box7" : "Chris Ybua is really \nstrong so we need to \nprepare before we \nchallenge him.",
+    "Box8" : "EXIT"
+  },
+  "Professor Ironwood" :
+  {
+    "Box1" : "The 'Taunt' ability \nthat Red has \nmakes the enemy more \nlikely to target him.",
+    "Box2" : "EXIT"
+  },
+  "Ms Wackerbotom" :
+  {
+    "Box1" : "Remember that dealing \ndamage and healing also \nincreases the chance of \nbeing targeted by the \nenemy.",
+    "Box2" : "So remember to use \nReds 'Taunt' skill more \nthan just once in a \nfight.",
+    "Box3" : "EXIT"
+  },
+  "Edna" :
+  {
+    "Box1" : "I advice you to \nsurvey the floor and \nspeak with the teachers.",
+    "Box2" : "They are very smart \nand can come with useful \ntips.",
+    "Box3" : "There can also be \nsomething hidden on one \nof these floors.",
+    "Box4" : "EXIT"
+  },
+  "Not Arne" :
+  {
+    "Box1" : "Chris Ybua is up \nahead.",
+    "Box2" : "Remember to be \nprepared",
+    "Box3" : "And remember to fill out \nthe survey so that the \ncomputer engineering course \ncan get pizza.",
+    "Box4" : "EXIT"
+  },
+  "Not Halvard" :
+  {
+    "Box1" : "I like rock music, \nit makes battling more \nawesome.",
+    "Box2" : "EXIT"
+  },
+  "Master Rochi" :
+  {
+    "Box1" : "Wish I could learn \nyou the 'Kame-hame-ha' \nspecial attack.",
+    "Box2" : "But you don't \nseem strong enough \nyet.",
+    "Box3" : "EXIT"
+  },
+  "Old Britta" :
+  {
+    "Box1" : "School is fun.",
+    "Box2" : "EXIT"
+  },
+  "Old Malin" :
+  {
+    "Box1" : "How handsome you \nlook.",
+    "Box2" : "EXIT"
+  },
+  "Old Anna" :
+  {
+    "Box1" : "You look nice.",
+    "Box2" : "EXIT"
+  },
+  "Old Sophia" :
+  {
+    "Box1" : "You youngling \nare so lively.",
+    "Box2" : "EXIT"
+  },
+  "Nice Froya" :
+  {
+    "Box1" : "I like your shoes.",
+    "Box2" : "EXIT"
+  },
+  "Nice Tilde" :
+  {
+    "Box1" : "I like flowers.",
+    "Box2" : "EXIT"
+  },
+  "Nice Camilla" :
+  {
+    "Box1" : "You are cute :3.",
+    "Box2" : "EXIT"
+  },
+  "Nice Gwen" :
+  {
+    "Box1" : "Keep going!",
+    "Box2" : "EXIT"
+  },
+  "Mean Rebecca" :
+  {
+    "Box1" : "What are you \nstaring for.",
+    "Box2" : "EXIT"
+  },
+  "Mean Kim" :
+  {
+    "Box1" : "What a nerd.",
+    "Box2" : "EXIT"
+  },
+  "Mean Helen" :
+  {
+    "Box1" : "I will beat you up.",
+    "Box2" : "EXIT"
+  },
+  "Mean Jessy" :
+  {
+    "Box1" : "Fight me!",
+    "Box2" : "EXIT"
+  }
+}
